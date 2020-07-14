@@ -1,3 +1,3 @@
-# java-server
+# easyUIDemo
 mysql name is 8-23;
 tableName tblscore include StuId CourseId Score
